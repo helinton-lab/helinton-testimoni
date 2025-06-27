@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Mr. Budi T.",
+    "city": "Bandung",
+    "photo": "https://i.ibb.co/Q8CJ2dk/user-avatar1.jpg",
+    "text": "Layanan Helinton sangat profesional dan hasil dokumentasinya luar biasa. Sangat merekomendasikan untuk acara penting.",
+    "rating": 5
+  },
+  {
+    "name": "Mrs. I",
+    "city": "Jakarta",
+    "photo": "https://i.ibb.co/wM41hVz/user-avatar2.jpg",
+    "text": "Gak nyangka wisuda bisa se aesthetic itu. Kakaknya juga asik banget, jadi gak kaku pas difoto. Wajib banget sih booking dia!",
+    "rating": 5
+  },
+  {
+    "name": "Andi R.",
+    "city": "Surabaya",
+    "photo": "https://i.ibb.co/L8BshmP/user-avatar3.jpg",
+    "text": "Proses pemesanannya mudah, hasilnya memuaskan dan dikirim cepat. Saya akan rekomendasikan ke teman-teman.",
+    "rating": 4
+  }
+]
